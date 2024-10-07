@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "audoteumiaumigo.html", "use": "@vercel/static" }
+  ],
+  "routes": [
+    { "src": "/(.*)", "dest": "/audoteumiaumigo.html" }
+  ]
+}
