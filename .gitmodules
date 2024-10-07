@@ -1,0 +1,3 @@
+[submodule "sistema-adocao-animais"]
+	path = sistema-adocao-animais
+	url = https://github.com/seu-usuario/sistema-adocao-animais.git
